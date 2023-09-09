@@ -25,4 +25,16 @@ And the output when running looks like
 
 ![./images/fsk8_1.png](./images/fsk8_2.png)
 
+## Read Wav 
+
+A much more basic flow ... in which we read an AFSK file, and display the Frequencies.
+
+Using QT sliders - we can change the filter before the data is displayed.
+
+![./images/wav1.png](./images/wav1.png)
+
+And the output when running looks like 
+
+![./images/wav2.png](./images/wav2.png)
+
 
